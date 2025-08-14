@@ -37,7 +37,7 @@ const schemaData = {
   name: 'Comfort Home Healthcare',
   description: 'Providing home healthcare services including home nursing, elder care, and physiotherapy in Indore, Ujjain, Dewas, Rau, and Mhow.',
   url: 'https://comforthomehealthcare.in',
-  telephone: '+91-9479365137',
+  telephone: '+91-7582865931',
   email: 'comforthomehealthcaree@gmail.com',
   address: {
     '@type': 'PostalAddress',
@@ -63,7 +63,7 @@ const schemaData = {
   ],
   contactPoint: {
     '@type': 'ContactPoint',
-    telephone: '+91-9479365137',
+    telephone: '+91-7582865931',
     contactType: 'Customer Service',
     areaServed: 'Indore, Ujjain, Dewas, Rau, Mhow',
   },
@@ -159,11 +159,11 @@ export default function Contact() {
                       <h3 className="font-semibold text-gray-900">Phone</h3>
                       <div className="space-y-2">
                         <a
-                          href="tel:+919479365137"
+                          href="tel:+917582865931"
                           className="text-gray-600 hover:text-[#007B8A] transition-colors"
-                          aria-label="Call Comfort Home Healthcare at +91-94793-65137"
+                          aria-label="Call Comfort Home Healthcare at +91-75828-65931"
                         >
-                          +91-94793-65137
+                          +91-75828-65931
                         </a>
                         <br />
                         <a
@@ -217,11 +217,11 @@ export default function Contact() {
                     For immediate assistance in Indore, Ujjain, Dewas, Rau, or Mhow, call us anytime.
                   </p>
                   <a
-                    href="tel:+919479365137"
+                    href="tel:+917582865931"
                     className="text-red-700 hover:text-red-800 transition-colors font-semibold"
                     aria-label="Call 24/7 emergency line"
                   >
-                    +91-94793-65137
+                    +91-75828-65931
                   </a>
                 </div>
               </div>

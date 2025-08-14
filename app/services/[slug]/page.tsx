@@ -49,7 +49,7 @@ export default function ServicePage({ params }: ServicePageProps) {
                   >
                     Request This Service
                   </a>
-                   <a href="tel:+919479365137" className="inline-flex items-center justify-center bg-white border-2 border-teal-200 text-teal-800 px-8 py-3.5 rounded-lg font-semibold hover:bg-teal-50 transition-colors">
+                   <a href="tel:+917582865931" className="inline-flex items-center justify-center bg-white border-2 border-teal-200 text-teal-800 px-8 py-3.5 rounded-lg font-semibold hover:bg-teal-50 transition-colors">
                     <Phone className="mr-2 w-5 h-5" />
                     Call for Info
                   </a>

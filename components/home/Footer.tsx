@@ -37,13 +37,13 @@ const Footer = () => {
       </div>
       <div className="flex flex-col sm:flex-row gap-3 items-center">
         <a 
-          href="tel:+919479365137" 
+          href="tel:+917582865931" 
           className="w-full  sm:w-auto justify inline-flex items-center justify-center bg-white text-[#007B8A] px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition-colors duration-200 shadow-lg hover:shadow-xl"
         >
           <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
           </svg>
-           +91 94793 65137
+           +91 7582865931
         </a>
         <p className="text-white/80 text-sm mt-2 sm:mt-0 sm:ml-4">
           24/7 Emergency Support Available
@@ -135,7 +135,7 @@ Madhya Pradesh, India                </address>
               </div>
               <a href="tel:+919876543210" className="flex items-center space-x-3 group">
                 <Phone size={16} className="text-[#A2E3E2] flex-shrink-0" />
-                <span className="text-sm text-slate-400 group-hover:text-white group-hover:underline">+91-94793-65137</span>
+                <span className="text-sm text-slate-400 group-hover:text-white group-hover:underline">+91-75828-65931</span>
               </a>
               <a href="tel:+919876543210" className="flex items-center space-x-3 group">
                 <Phone size={16} className="text-[#A2E3E2] flex-shrink-0" />

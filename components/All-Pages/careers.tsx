@@ -19,8 +19,8 @@ const vacancies = [
       'Good communication skills',
       'Physically fit',
     ],
-    contact: '+91-9479365137',
-    whatsapp: '+919479365137',
+    contact: '+91-7582865931',
+    whatsapp: '+917582865931',
     serviceLink: '/services/care-taker',
   },
   {
@@ -49,8 +49,8 @@ const vacancies = [
       'Empathetic and patient',
       'Knowledge of elderly care techniques',
     ],
-    contact: '+91-9479365137',
-    whatsapp: '+919479365137',
+    contact: '+91-7582865931',
+    whatsapp: '+917582865931',
     serviceLink: '/services/elder-care',
   },
   {
@@ -79,8 +79,8 @@ const vacancies = [
       'Experience in home care settings',
       'Knowledge of rehabilitation techniques',
     ],
-    contact: '+91-9479365137',
-    whatsapp: '+919479365137',
+    contact: '+91-7582865931',
+    whatsapp: '+917582865931',
     serviceLink: '/services/physiotherapy',
   },
   {
@@ -109,8 +109,8 @@ const vacancies = [
       'Valid nursing license',
       'Physically capable of patient assistance',
     ],
-    contact: '+91-9479365137',
-    whatsapp: '+919479365137',
+    contact: '+91-7582865931',
+    whatsapp: '+917582865931',
     serviceLink: '/services/paralysis-care',
   },
 ];
@@ -346,15 +346,15 @@ export default function Careers() {
             </p>
             <div className="mt-8 flex flex-col sm:flex-row justify-center gap-4">
               <a
-                href="tel:+919479365137"
+                href="tel:+917582865931"
                 className="inline-flex items-center justify-center bg-white text-[#007B8A] px-8 py-3.5 rounded-lg font-bold hover:bg-gray-100 transition-all shadow-lg"
                 aria-label="Call HR team for career inquiries"
               >
                 <Phone className="w-5 h-5 mr-2" aria-hidden="true" />
-                Call HR: +91 94793 65137
+                Call HR: +91 7582865931
               </a>
               <a
-                href="https://wa.me/+919479365137?text=Hello%20Comfort%20Home%20Healthcare,%20I%20have%20a%20question%20about%20career%20opportunities"
+                href="https://wa.me/+917582865931?text=Hello%20Comfort%20Home%20Healthcare,%20I%20have%20a%20question%20about%20career%20opportunities"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center bg-[#25D366] text-white px-8 py-3.5 rounded-lg font-bold hover:bg-green-600 transition-all shadow-lg"
@@ -368,7 +368,6 @@ export default function Careers() {
         </div>
       </section>
 
-      <Footer />
     </div>
   );
 }

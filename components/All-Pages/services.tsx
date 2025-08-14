@@ -42,7 +42,7 @@ const schemaData = {
     name: 'Comfort Home Healthcare',
     description: 'Providing home nursing, elder care, physiotherapy, paralysis care, new born baby care, Japa care, and post-operative care in Indore, Ujjain, Dewas, Rau, and Mhow.',
     url: 'https://comforthomehealthcare.in',
-    telephone: '+91-9479365137',
+    telephone: '+91-7582865931',
     email: 'comforthomehealthcaree@gmail.com',
     address: {
       '@type': 'PostalAddress',
@@ -117,7 +117,7 @@ export default function Services() {
                   </div>
                   <div className="px-6 pb-6 mt-auto grid grid-cols-2 gap-3">
                     <a
-                      href="tel:+919479365137"
+                      href="tel:+917582865931"
                       className="inline-flex items-center justify-center bg-slate-100 border border-slate-200 text-slate-700 py-2.5 rounded-lg font-semibold hover:bg-slate-200 transition-all text-sm"
                       aria-label={`Call for ${service.title} inquiry`}
                     >

@@ -40,7 +40,7 @@ const schemaData = {
   name: 'Comfort Home Healthcare',
   description: 'Providing home healthcare services including home nursing, elder care, physiotherapy, paralysis care, new born baby care, Japa care, and post-operative care in Indore, Ujjain, Dewas, Rau, and Mhow.',
   url: 'https://comforthomehealthcare.in',
-  telephone: '+91-9479365137',
+  telephone: '+91-7582865931',
   email: 'comforthomehealthcaree@gmail.com',
   address: {
     '@type': 'PostalAddress',
@@ -66,7 +66,7 @@ const schemaData = {
   ],
   contactPoint: {
     '@type': 'ContactPoint',
-    telephone: '+91-9479365137',
+    telephone: '+91-7582865931',
     contactType: 'Customer Service',
     areaServed: 'Indore, Ujjain, Dewas, Rau, Mhow',
   },

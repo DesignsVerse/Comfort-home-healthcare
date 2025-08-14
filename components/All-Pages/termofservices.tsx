@@ -41,7 +41,7 @@ const schemaData = {
     name: 'Comfort Home Healthcare',
     description: 'Providing home nursing, elder care, physiotherapy, paralysis care, new born baby care, Japa care, and post-operative care in Indore, Ujjain, Dewas, Rau, and Mhow.',
     url: 'https://comforthomehealthcare.in',
-    telephone: '+91-9479365137',
+    telephone: '+91-7582865931',
     email: 'comforthomehealthcaree@gmail.com',
     address: {
       '@type': 'PostalAddress',
@@ -221,7 +221,7 @@ export default function TermsOfService() {
                           </ul>
                         </div>
                         <p className="mt-3 text-sm text-gray-600">
-                          To cancel or reschedule, please call our support line at <a href="tel:+919479365137" className="text-[#007B8A] hover:underline" aria-label="Call support line">+91-9479365137</a>.
+                          To cancel or reschedule, please call our support line at <a href="tel:+917582865931" className="text-[#007B8A] hover:underline" aria-label="Call support line">+91-7582865931</a>.
                         </p>
                       </div>
                     </div>
@@ -282,7 +282,7 @@ export default function TermsOfService() {
                             B-07, Flat No. 704, Palash Parisar<br />
                             Silicon City, Indore – 452012<br />
                             Madhya Pradesh, India<br />
-                            Phone: <a href="tel:+919479365137" className="text-[#007B8A] hover:underline" aria-label="Call support line">+91-9479365137</a> (24/7 Helpline)<br />
+                            Phone: <a href="tel:+917582865931" className="text-[#007B8A] hover:underline" aria-label="Call support line">+91-7582865931</a> (24/7 Helpline)<br />
                             Email: <a href="mailto:comforthomehealthcaree@gmail.com" className="text-[#007B8A] hover:underline" aria-label="Email support">comforthomehealthcaree@gmail.com</a><br />
                             Hours: Monday-Sunday, 8:00 AM - 8:00 PM
                           </address>
@@ -305,7 +305,6 @@ export default function TermsOfService() {
         </section>
       </main>
 
-      <Footer />
     </div>
   );
 }

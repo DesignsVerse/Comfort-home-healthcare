@@ -51,7 +51,7 @@ const Header = () => {
           <div className="flex items-center space-x-6">
             <div className="flex items-center space-x-2 gap-2">
               <Phone size={14} />
-              <span>+91-9479365137</span>
+              <span>+91-7582865931</span>
               <Phone size={14} />
               <span>+91-8319226300</span>
             </div>
@@ -140,7 +140,7 @@ const Header = () => {
   <div className="flex items-center space-x-4">
     <div className="hidden md:block">
       <a
-        href="https://wa.me/+919479365137?text=Hello,%20I%20want%20to%20about%20your%20Services"
+        href="https://wa.me/+917582865931?text=Hello,%20I%20want%20to%20about%20your%20Services"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-[#4CAF50] text-white px-6 py-3 rounded-lg font-medium hover:bg-[#3e8e41] transition-colors duration-200"
@@ -210,7 +210,7 @@ const Header = () => {
                 {/* Mobile Menu Footer */}
                 <div className="mt-8 pt-6 border-t border-gray-200">
                   <a
-                    href="https://wa.me/+919479365137?text=Hello,%20I%20want%20to%20about%20your%20Services"
+                    href="https://wa.me/+917582865931?text=Hello,%20I%20want%20to%20about%20your%20Services"
                     target="_blank"
                     rel="noopener noreferrer"
                     onClick={toggleMenu}
@@ -221,7 +221,7 @@ const Header = () => {
                   <div className="mt-6 space-y-3 text-sm text-gray-600">
                     <div className="flex items-center space-x-2">
                       <Phone size={16} className="text-gray-500" />
-                      <span>+91 94793 65137</span>
+                      <span>+91 7582865931</span>
                     </div>
                     <div className="flex items-center space-x-2">
                       <Phone size={16} className="text-gray-500" />

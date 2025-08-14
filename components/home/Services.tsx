@@ -69,7 +69,7 @@ const Services = () => {
               {/* Card Footer */}
               <div className="px-6 pb-6 mt-auto grid grid-cols-2 gap-3">
                 <Link
-                  href={`tel:+919479365137`}
+                  href={`tel:+917582865931`}
                   className="inline-flex items-center justify-center bg-slate-100 border border-slate-200 text-slate-700 py-2.5 rounded-lg font-semibold hover:bg-slate-200 transition-all text-sm"
                 >
                   <Phone className="w-4 h-4 mr-2" />
@@ -101,10 +101,10 @@ const Services = () => {
       className="inline-flex items-center justify-center bg-white text-[#007B8A] px-8 py-3 rounded-lg font-semibold transition-transform hover:scale-105 shadow-lg w-full sm:w-auto"
     >
       <Phone className="w-5 h-5 mr-3" />
-      +91-9479365137
+      +91-7582865931
     </Link>
     <Link
-      href="https://wa.me/+919479365137?text=Hello,%20I%20Need%20Home%20Care%20Service"
+      href="https://wa.me/+917582865931?text=Hello,%20I%20Need%20Home%20Care%20Service"
       className="inline-flex items-center justify-center bg-white/20 text-white px-8 py-3 rounded-lg font-semibold transition-transform hover:scale-105 hover:bg-white/30 w-full sm:w-auto"
     >
       Request a Callback

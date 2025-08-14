@@ -90,11 +90,11 @@ const Hero = () => {
                 </div>
                 <div>
                   <div className="text-xs text-gray-500">Call Now For Home Care Service</div>
-                  <div className="text-xl font-bold text-[#007B8A]">+91 94793 65137</div>
+                  <div className="text-xl font-bold text-[#007B8A]">+91 7582865931</div>
                 </div>
               </div>
               <a
-                href="tel:+919479365137"
+                href="tel:+917582865931"
                 className="inline-flex items-center justify-center bg-[#4CAF50] text-white px-6 py-3 rounded-lg font-semibold hover:bg-[#3e8e41] transition-all duration-200 whitespace-nowrap text-base w-full sm:w-auto"
               >
                 Enquire Now
